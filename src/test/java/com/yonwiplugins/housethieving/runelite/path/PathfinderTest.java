@@ -1,4 +1,4 @@
-package com.sololegends.runelite.path;
+package com.yonwiplugins.housethieving.runelite.path;
 
 import static org.junit.Assert.*;
 

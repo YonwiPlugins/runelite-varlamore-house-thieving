@@ -1,7 +1,7 @@
-# Runelite House Thieving in Varlamore
+# Advanced Varlamore House Thieving
 Highlights useful things when robbing houses in Varlamore
 
-This is the YonwiPlugins edition of [sololegends' House Thieving Varlamore plugin](https://github.com/sololegends/runelite-varlamore-house-thieving), used under its MIT licence. It adds styling options, walkable paths, quiet mode, owner and bonus chest timers, and a grace period meter on top of the original (offered upstream as [PR #29](https://github.com/sololegends/runelite-varlamore-house-thieving/pull/29)).
+Advanced Varlamore House Thieving is the YonwiPlugins edition of [sololegends' House Thieving Varlamore plugin](https://github.com/sololegends/runelite-varlamore-house-thieving), used under its MIT licence. It adds styling options, walkable paths, quiet mode, owner and bonus chest timers, and a grace period meter on top of the original (offered upstream as [PR #29](https://github.com/sololegends/runelite-varlamore-house-thieving/pull/29)).
 
 ### Features 
 - Highlight doors, escape, citizens, and house owners

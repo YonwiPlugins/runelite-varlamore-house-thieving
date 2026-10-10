@@ -1,4 +1,4 @@
-package com.sololegends.runelite;
+package com.yonwiplugins.housethieving.runelite;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

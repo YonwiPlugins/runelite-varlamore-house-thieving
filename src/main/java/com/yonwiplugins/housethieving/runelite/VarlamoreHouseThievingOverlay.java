@@ -1,4 +1,4 @@
-package com.sololegends.runelite;
+package com.yonwiplugins.housethieving.runelite;
 
 import java.awt.*;
 import java.awt.image.BufferedImage;
@@ -6,11 +6,11 @@ import java.text.DecimalFormat;
 import java.util.List;
 
 import com.google.inject.Inject;
-import com.sololegends.panel.NextUpOverlayPanel;
-import com.sololegends.runelite.data.Houses;
-import com.sololegends.runelite.data.Houses.House;
-import com.sololegends.runelite.path.Pathfinder;
-import com.sololegends.runelite.render.Highlighter;
+import com.yonwiplugins.housethieving.panel.NextUpOverlayPanel;
+import com.yonwiplugins.housethieving.runelite.data.Houses;
+import com.yonwiplugins.housethieving.runelite.data.Houses.House;
+import com.yonwiplugins.housethieving.runelite.path.Pathfinder;
+import com.yonwiplugins.housethieving.runelite.render.Highlighter;
 
 import net.runelite.api.*;
 import net.runelite.api.Menu;

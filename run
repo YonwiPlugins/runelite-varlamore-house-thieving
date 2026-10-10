@@ -4,7 +4,7 @@
 if [ -f ./gradle.properties ]; then
   . ./gradle.properties
 fi
-cp src/test/java/com/sololegends/runelite/VarlamoreHouseThievingTest.java src/main/java/com/sololegends/runelite/VarlamoreHouseThievingTest.java
+cp src/test/java/com/yonwiplugins/housethieving/runelite/VarlamoreHouseThievingTest.java src/main/java/com/yonwiplugins/housethieving/runelite/VarlamoreHouseThievingTest.java
 ./gradlew full
 java -jar -ea build/libs/$sl_archivesBaseName-$sl_version.jar --developer-mode "$@"
-rm src/main/java/com/sololegends/runelite/VarlamoreHouseThievingTest.java
+rm src/main/java/com/yonwiplugins/housethieving/runelite/VarlamoreHouseThievingTest.java

@@ -33,7 +33,7 @@ dependencies {
   testImplementation group: 'net.runelite', name:'jshell', version: runeLiteVersion
 }
 
-group = 'com.sololegends'
+group = 'com.yonwiplugins.housethieving'
 project.version = sl_version
 
 compileJava {
@@ -78,7 +78,7 @@ mainClassName = sl_mainclass
 publishing {
   publications {
     library(MavenPublication) {
-      groupId = 'com.sololegends'
+      groupId = 'com.yonwiplugins.housethieving'
       artifactId = sl_archivesBaseName
       version = project.version
       from components.java

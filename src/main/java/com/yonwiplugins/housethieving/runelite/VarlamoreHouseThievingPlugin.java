@@ -1,4 +1,4 @@
-package com.sololegends.runelite;
+package com.yonwiplugins.housethieving.runelite;
 
 import java.awt.geom.AffineTransform;
 import java.awt.image.AffineTransformOp;
@@ -12,10 +12,10 @@ import javax.imageio.ImageIO;
 
 import com.google.inject.Inject;
 import com.google.inject.Provides;
-import com.sololegends.panel.NextUpOverlayPanel;
-import com.sololegends.runelite.data.Houses;
-import com.sololegends.runelite.data.Houses.House;
-import com.sololegends.runelite.debug.GraceMeter;
+import com.yonwiplugins.housethieving.panel.NextUpOverlayPanel;
+import com.yonwiplugins.housethieving.runelite.data.Houses;
+import com.yonwiplugins.housethieving.runelite.data.Houses.House;
+import com.yonwiplugins.housethieving.runelite.debug.GraceMeter;
 
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.*;
@@ -32,7 +32,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.ui.overlay.OverlayManager;
 
 @Slf4j
-@PluginDescriptor(name = "House Thieving Varlamore", description = "Highlights useful things when robbing houses in Varlamore", tags = {
+@PluginDescriptor(name = "Advanced Varlamore House Thieving", description = "Highlights useful things when robbing houses in Varlamore", tags = {
 		"thieving", "houses", "varlamore", "wealthy", "citizen" })
 public class VarlamoreHouseThievingPlugin extends Plugin {
 

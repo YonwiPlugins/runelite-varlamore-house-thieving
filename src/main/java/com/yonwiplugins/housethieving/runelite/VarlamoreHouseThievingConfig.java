@@ -1,12 +1,12 @@
-package com.sololegends.runelite;
+package com.yonwiplugins.housethieving.runelite;
 
 import java.awt.Color;
 
-import com.sololegends.runelite.render.Highlighter;
+import com.yonwiplugins.housethieving.runelite.render.Highlighter;
 
 import net.runelite.client.config.*;
 
-@ConfigGroup("Varlamore House Thieving")
+@ConfigGroup("advancedvarlamorehousethieving")
 public interface VarlamoreHouseThievingConfig extends Config {
 
 	@ConfigSection(name = "Features", description = "turn on and off features", position = 0)

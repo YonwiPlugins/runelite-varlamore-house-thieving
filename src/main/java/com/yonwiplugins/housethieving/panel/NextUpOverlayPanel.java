@@ -1,12 +1,12 @@
-package com.sololegends.panel;
+package com.yonwiplugins.housethieving.panel;
 
 import java.awt.*;
 
 import javax.inject.Inject;
 
-import com.sololegends.runelite.VarlamoreHouseThievingConfig;
-import com.sololegends.runelite.VarlamoreHouseThievingPlugin;
-import com.sololegends.runelite.data.Houses;
+import com.yonwiplugins.housethieving.runelite.VarlamoreHouseThievingConfig;
+import com.yonwiplugins.housethieving.runelite.VarlamoreHouseThievingPlugin;
+import com.yonwiplugins.housethieving.runelite.data.Houses;
 
 import net.runelite.api.Client;
 import net.runelite.client.ui.overlay.*;

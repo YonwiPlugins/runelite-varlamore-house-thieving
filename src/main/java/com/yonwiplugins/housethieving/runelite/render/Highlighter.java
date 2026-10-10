@@ -1,4 +1,4 @@
-package com.sololegends.runelite.render;
+package com.yonwiplugins.housethieving.runelite.render;
 
 import java.awt.*;
 

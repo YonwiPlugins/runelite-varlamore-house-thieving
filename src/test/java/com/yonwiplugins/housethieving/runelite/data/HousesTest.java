@@ -1,4 +1,4 @@
-package com.sololegends.runelite.data;
+package com.yonwiplugins.housethieving.runelite.data;
 
 import static org.junit.Assert.*;
 
@@ -7,8 +7,8 @@ import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.sololegends.runelite.VarlamoreHouseThievingPlugin;
-import com.sololegends.runelite.data.Houses.House;
+import com.yonwiplugins.housethieving.runelite.VarlamoreHouseThievingPlugin;
+import com.yonwiplugins.housethieving.runelite.data.Houses.House;
 
 import net.runelite.api.coords.WorldPoint;
 

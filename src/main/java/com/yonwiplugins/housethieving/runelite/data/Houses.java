@@ -1,9 +1,9 @@
-package com.sololegends.runelite.data;
+package com.yonwiplugins.housethieving.runelite.data;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import com.sololegends.runelite.VarlamoreHouseThievingPlugin;
+import com.yonwiplugins.housethieving.runelite.VarlamoreHouseThievingPlugin;
 
 import net.runelite.api.Player;
 import net.runelite.api.coords.WorldPoint;

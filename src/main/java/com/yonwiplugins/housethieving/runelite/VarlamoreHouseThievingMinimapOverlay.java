@@ -1,12 +1,12 @@
-package com.sololegends.runelite;
+package com.yonwiplugins.housethieving.runelite;
 
 import java.awt.Dimension;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 
 import com.google.inject.Inject;
-import com.sololegends.panel.NextUpOverlayPanel;
-import com.sololegends.runelite.data.Houses;
+import com.yonwiplugins.housethieving.panel.NextUpOverlayPanel;
+import com.yonwiplugins.housethieving.runelite.data.Houses;
 
 import net.runelite.api.*;
 import net.runelite.api.coords.LocalPoint;

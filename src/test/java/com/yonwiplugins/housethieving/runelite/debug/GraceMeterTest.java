@@ -1,4 +1,4 @@
-package com.sololegends.runelite.debug;
+package com.yonwiplugins.housethieving.runelite.debug;
 
 import static org.junit.Assert.*;
 

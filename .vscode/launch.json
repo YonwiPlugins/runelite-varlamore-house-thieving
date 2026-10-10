@@ -5,14 +5,14 @@
 			"type": "java",
 			"name": "VarlamoreHouseThievingOverlay",
 			"request": "launch",
-			"mainClass": "com.sololegends.runelite.VarlamoreHouseThievingOverlay",
+			"mainClass": "com.yonwiplugins.housethieving.runelite.VarlamoreHouseThievingOverlay",
 			"projectName": "varlamore-house-thieving"
 		},
 		{
 			"type": "java",
 			"name": "AttentionArrow",
 			"request": "launch",
-			"mainClass": "com.sololegends.helpers.AttentionArrow",
+			"mainClass": "com.yonwiplugins.housethieving.helpers.AttentionArrow",
 			"projectName": "varlamore-house-thieving"
 		}
 	],
