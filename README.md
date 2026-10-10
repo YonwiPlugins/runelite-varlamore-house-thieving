@@ -1,6 +1,8 @@
 # Runelite House Thieving in Varlamore
 Highlights useful things when robbing houses in Varlamore
 
+This is the YonwiPlugins edition of [sololegends' House Thieving Varlamore plugin](https://github.com/sololegends/runelite-varlamore-house-thieving), used under its MIT licence. It adds styling options, walkable paths, quiet mode, owner and bonus chest timers, and a grace period meter on top of the original (offered upstream as [PR #29](https://github.com/sololegends/runelite-varlamore-house-thieving/pull/29)).
+
 ### Features 
 - Highlight doors, escape, citizens, and house owners
 - Configurable highlight toggle and highlight colors
@@ -24,6 +26,7 @@ Highlights useful things when robbing houses in Varlamore
 - Highly configurable, enable and disable what features and notifications you want
 
 ## Thanks To
+- Thanks to [sololegends](https://github.com/sololegends) for creating the original plugin
 - Thanks to [coupe-1](https://github.com/coupe-1) for their work on:
   - Notification option after time-since-distraction threshold
 - Thanks to [coopermor](https://github.com/coopermor) for their additional tag suggestions for discoverability
